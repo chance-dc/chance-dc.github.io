@@ -1,7 +1,7 @@
-# Dylan's Adventure Games
+# Chance Adventure Games
 
 Plain static site (HTML/CSS, no build step) hosted on GitHub Pages at https://chance-dc.github.io.
-The site title "Dylan's Adventure Games" lives in `index.html` and each game page header; change freely.
+The site title "Chance Adventure Games" lives in `index.html` and each game page header; change freely.
 
 ## Layout
 - `index.html` – home page with the games grid
