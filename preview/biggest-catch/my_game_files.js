@@ -1,0 +1,1 @@
+var gamefiles = ['audio.vox', 'BiggestCatch.ags', 'acsetup.cfg'];
